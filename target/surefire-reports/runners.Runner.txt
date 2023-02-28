@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: runners.Runner
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 75.562 sec <<< FAILURE! - in runners.Runner
+Validate "Web Orders" menu items(SmartBear Functions Validation)  Time elapsed: 16.912 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+
+Validate adding new order(SmartBear Functions Validation)  Time elapsed: 17.137 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index: 2, Size: 0
+
